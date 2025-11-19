@@ -5,7 +5,7 @@
 </br>
 
 
-💥💥💥<strong>11.19 [ChinarXiv - Arxiv论文翻译工具](https://github.com/kaixindelele/chinarxiv) 我最近开源了本地PDF翻译+Arxiv翻译的一个完整解决方案，欢迎大家使用和star！</strong>
+💥💥💥<strong>11.19 [ChinarXiv - Arxiv论文翻译工具](https://github.com/kaixindelele/chinarxiv) 我最近开源了本地PDF翻译+Arxiv翻译的一个完整解决方案，欢迎大家使用和star！也欢迎使用免费不用注册的[chinarxiv.chatpaper.top](https://chinarxiv.chatpaper.top)</strong>
 
 💥💥💥<strong>7.23 [MasterYip](https://github.com/MasterYip) 同学开源了 [ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind)! 
 将论文PDF通过Chat一键生成 图片+公式的简要XMind笔记。
